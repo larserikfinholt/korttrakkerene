@@ -1,7 +1,7 @@
 ---
 title: "Skryteliste"
 date: 2019-09-26T19:15:32+02:00
-draft: true
+draft: false
 menu: "main"
 --- 
 
