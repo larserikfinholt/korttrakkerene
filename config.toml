@@ -2,3 +2,7 @@ languageCode = "no-nb"
 title = "Korttråkkerene"
 theme = "ananke"
 menu = "main"
+
+
+[params]
+ featured_image = "/forside.jpg"

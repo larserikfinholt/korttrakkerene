@@ -7,6 +7,8 @@ menu: "main"
 
 Vi er en gjeng ivrige stisyklister som har Gulsetmarka som lekegrind. Vi møtes et par ganger i uka og sykler eller rydder sti. Vi gjennomfører guiding og noe utbedring av stiene i marka, les mer om dette på skrytesidene
 
+{{< figure src="/kortlogo.PNG" >}}
+
 For å ha mulighet til å søke midler vurderer vi å starte en ideell organisasjon. Under er et utkast til vedtekter (basert på mal fra https://www.frivillighetnorge.no/?module=Articles&action=Article.publicOpen&id=1080).
 
 # Stiftelsesmøte
