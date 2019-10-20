@@ -24,6 +24,10 @@ En topp i Gulsetmarka som vi sykler mye på hadde ikke noe navn. Den var "toppen
 
 {{< figure src="/skilt_terreng.jpg" >}}
 
+# Truger og motorsag
+Vinteren tråkker Korttråkkerne stier for fatbikesykling. Truger sørger for godt underlag. Vinteren 2018 var det enormt med knekte trær i Gulsetmarka, og motorsaga var fast innhold i sekken
+{{< figure src="/truger.png" >}}
+
 
 # Stiguding Gulsetmarka 2017
 Vi hadde stiguidinging for andre gang i Gulsetmarka. Det ble igjen kjempemorro. Samling var også denne gang ved Åletjern. Her er video:
