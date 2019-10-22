@@ -81,3 +81,42 @@ Oppløsning av Korttråkkerene kan bare behandles på ordinært årsmøte. Blir 
 
 
 
+
+
+
+
+
+# Referat stiftelsesmøte
+
+## Tilstede
+Lars Erik Finholt
+Richard Skyer
+Stian Reite
+Frode Nyseter
+Simon Nyseter
+Carl Axel Anderson
+Erik Fink
+Pål Robin Haakosen
+Bjørnar Gjesdal
+Anders Helgen
+Ole Ferdinand Fredriksen
+Morten Skyer
+Morten Lavergren
+Øystein Aasheim
+Magne Mellerud
+Fredrik Lehmann
+Espen Borgesen
+Helge Hole
+
+
+## Styre
+Lars Erik Finholt
+Stian Reite
+Richard Skyer
+Carl Axel Andersson
+Bjørnar Gjesdal
+
+
+
+
+
