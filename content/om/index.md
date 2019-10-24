@@ -21,11 +21,12 @@ Der skal det vedtas vedtekter og velges styremedlemmer. Et referat fra dette mø
 # Forslag til Vedtekter
 
 ## § 1 Formål
-Korttråkkerene er en organisasjon som ønsker å skape sykkelglede for alle.
+Korttråkkerene skal: 
 
-Korttråkkerene skal:
-
-Være en møteplass for stisyklister som liker Gulsetmarka. Korttråkkerene skal jobbe for å spre sykkelglede. Korttråkkerene skal bidra til å vedlikeholde og tilrettelegge stier for stisykling. 
+- Spre sykkelglede for barn, unge og voksne gjennom tilrettelegging for stisykling 
+- Være en møteplass for stisyklister som liker Gulsetmarka. 
+- Bidra til å vedlikeholde og tilrettelegge stier for stisykling på en bærekraftig måte. 
+- Være en felles stemme for terrengsyklistene i Gulsetmarka 
 
 ## § 2 Organisatorisk tilknytning
 Korttråkkerene er en frittstående organisasjon, uten binding til andre organisasjoner.
@@ -88,6 +89,10 @@ Oppløsning av Korttråkkerene kan bare behandles på ordinært årsmøte. Blir 
 
 # Referat stiftelsesmøte
 
+Stiftelsesmøte ble holdt i Gulset Nærmiljøsenter sine lokaler på Gulsetsenteret tirsdag 22 oktober.
+
+{{< figure src="/firstmeeting.jpg" >}}
+
 ## Tilstede
 Lars Erik Finholt
 Richard Skyer
@@ -116,6 +121,9 @@ Richard Skyer
 Carl Axel Andersson
 Bjørnar Gjesdal
 
+# Dokumenter
+
+https://1drv.ms/u/s!AqAG1Wz9CQldgpU7eqZAUzKNOY6Aog?e=OvQbEb
 
 
 
