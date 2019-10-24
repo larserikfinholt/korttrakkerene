@@ -78,7 +78,7 @@ Leder innkaller til styremøter ved behov. Styret er vedtaksført når et flerta
 Endringer i disse vedtekter kan bare foretas på ordinært eller ekstraordinært årsmøte etter å ha vært på sakslisten, og det kreves 2/3 flertall av de avgitte stemmene.
 
 ## § 12 Oppløsning (§ 12 kan ikke endres.)
-Oppløsning av Korttråkkerene kan bare behandles på ordinært årsmøte. Blir oppløsning vedtatt med minst 2/3 flertall, innkalles ekstraordinært årsmøte 3 måneder senere. For at oppløsning skal skje må vedtaket her gjentas med 2/3 flertall. Eventuelle midler og utstyr som organisasjonen har skal ved en oppløsning gis til en organisasjon med tilsvarende formål.
+Oppløsning av Korttråkkerene kan bare behandles på ordinært årsmøte. Blir oppløsning vedtatt med minst 2/3 flertall, innkalles ekstraordinært årsmøte 3 måneder senere. For at oppløsning skal skje må vedtaket her gjentas med 2/3 flertall. Eventuelle midler og utstyr som organisasjonen har skal ved en oppløsning gis til en organisasjon med tilsvarende formål. Dersom ingen tilsvarende organisasjon finnes, gis midlene til Gulset IF.
 
 
 
