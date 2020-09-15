@@ -5,6 +5,10 @@ draft: false
 menu: "main"
 --- 
 
+# Bygging av bru over Åletjernbekken
+I september 2020 lagde vi bru over Åletjernbekken. Resultatet ble som tidligere knallbra.
+{{< figure src="/bro_aletjernbekken.jpg" >}}
+
 # Bygging av klopp ved bunn av Tinnskollen
 I september 2019 lagde vi vår første klopp med sving og med tverrgående bord. Resultatet ble knallbra.
 {{< figure src="/klopp_tinnskollen.jpg" >}}
